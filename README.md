@@ -2,6 +2,8 @@
 
 This application facilitates a chatbot by leveraging Next.js as the frontend and FastAPI as the backend, utilizing the power of LangChain 0.1.0 for dynamic web interactions.
 
+![Chatbot Interface](images/chatbot.png)
+
 ## Features of the Hybrid App
 
 - **Web Interaction via LangChain**: Utilizes the latest LangChain version for effective interaction and information extraction from websites.
